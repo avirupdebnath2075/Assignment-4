@@ -1,5 +1,4 @@
 # Assignment-4
-sample.txt is for Task 1 and output.txt is for Task 2.
 Logic used:-
 
 Task1:
