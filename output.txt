@@ -1,0 +1,4 @@
+hi55Hi , python
+hi
+python -u "c:\Users\AVIRUP\Documents\Python\Task 2.py"
+5
